@@ -41,7 +41,7 @@
 </svelte:head>
 
 <section
-  class="pt-32 md:h-screen px-4 gradient-bg flex justify-center items-center md:mb-[700px] scroll-fade-in"
+  class="pt-32 md:pt-72 md:h-screen px-4 gradient-bg flex justify-center items-center md:mb-[700px] scroll-fade-in"
 >
   <img
     src={pricing_grid}
@@ -65,7 +65,7 @@
     <Tabs.Root value="1">
       <div class="flex justify-center mb-10">
         <Tabs.List
-          class="bg-bw700 dark:bg-bw700 rounded-[5px] p-1 lg:mb-0 text-bw50 font-normal flex justify-center w-fit rounded-[10px]"
+          class="bg-bw700 dark:bg-bw700 p-1 lg:mb-0 text-bw50 font-normal flex justify-center w-fit rounded-[10px]"
         >
           <Tabs.Trigger
             value="1"
@@ -454,7 +454,7 @@
             <div class="pt-5">
               <div class="flex px-6 items-end text-bw50">
                 <span class="text-[30px] font-bold text-center"
-                  >USD 165
+                  >USD 265
                   <span
                     class="font-bold text-center justify-end text-bw500 text-[14px]"
                     >/Month</span

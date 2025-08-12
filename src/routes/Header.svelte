@@ -85,10 +85,10 @@
 					goto("/contact");
 					isMenuOpen = false;
 				}}
-				aria-label="Go to get in touch page"
+				aria-label="Go to contact us page"
 				class={`${checkPage("/contact") && "underline decoration-2 underline-offset-4"}`}
 			>
-				Get in touch
+				Contact us
 			</HotkeyButton>
 			<HotkeyButton
 				variant="link"
