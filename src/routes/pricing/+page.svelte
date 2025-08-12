@@ -41,7 +41,7 @@
 </svelte:head>
 
 <section
-  class="pt-32 md:pt-72 md:h-screen px-4 gradient-bg flex justify-center items-center md:mb-[700px] scroll-fade-in"
+  class="pt-32 md:pt-56 md:h-screen px-4 gradient-bg flex justify-center items-center md:mb-[700px] scroll-fade-in"
 >
   <img
     src={pricing_grid}
