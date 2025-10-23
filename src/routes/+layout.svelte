@@ -27,9 +27,10 @@
 </script>
 
 <ModeWatcher track={false} defaultMode={"dark"} />
+
 <div class="min-h-screen bg-background flex flex-col font-custom">
 	<Header />
-	<main class="flex-grow">
+	<main class="flex-grow pt-10">
 		{@render children()}
 	</main>
 	<Footer />

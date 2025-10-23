@@ -26,6 +26,12 @@
 </script>
 
 <header class="fixed w-full top-0 z-50 bg-background/80 backdrop-blur-sm">
+	<!-- Rebrand banner -->
+	<div class="w-full h-10 bg-darkbghovergreen text-bw50 flex items-center justify-center px-4">
+		<p class="text-sm md:text-base font-medium text-center">
+			🚀 OpenIAP is rebranding! Welcome to Tidedge 🚀
+		</p>
+	</div>
 	<div class="px-4 h-16 flex items-center justify-between">
 		<HotkeyButton
 			variant="ghostfull"
