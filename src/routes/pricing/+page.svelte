@@ -516,7 +516,7 @@
             </Card.Header>
 
             <div class="pt-5">
-              <div class="flex px-6 items-end text-bw50">
+              <!-- <div class="flex px-6 items-end text-bw50">
                 <span class="text-[30px] font-bold text-center"
                   >USD 225
                   <span
@@ -524,7 +524,7 @@
                     >/Hour</span
                   >
                 </span>
-              </div>
+              </div> -->
               <!-- <div class="flex px-6 pb-6 items-end text-[14px]">
                 <span class="font-bold text-center text-bw200"
                   >Approx. 216 <span class="text-bw200">USD</span></span
@@ -533,7 +533,7 @@
             </div>
 
             <div class="px-6">
-              <img src={border_bottom_large} alt="border_bottom" />
+              <img src={border_bottom_large} alt="border_bottom" />``
             </div>
 
             <Card.Content>
@@ -563,7 +563,7 @@
                     "_blank",
                     "noopener,noreferrer",
                   )}
-                class="w-full mt-6">Book a meeting</HotkeyButton
+                class="w-full mt-6">Contact Sales</HotkeyButton
               >
             </Card.Content>
           </Card.Root>
