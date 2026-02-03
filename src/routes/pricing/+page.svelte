@@ -557,12 +557,7 @@
               </ul>
               <HotkeyButton
                 variant="success"
-                onclick={() =>
-                  window.open(
-                    "https://calendar.app.google/9Kt9XWGRYPLTyhQF7",
-                    "_blank",
-                    "noopener,noreferrer",
-                  )}
+                onclick={() => goto(base + "/contact")}
                 class="w-full mt-6">Contact Sales</HotkeyButton
               >
             </Card.Content>
